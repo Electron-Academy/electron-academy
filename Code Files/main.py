@@ -1,5 +1,0 @@
-print("Hello, World!")
-print(87)
-print("87")
-print("Hello, World!", 87)
-print("Hello,", "World!")
